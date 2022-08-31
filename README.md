@@ -77,9 +77,7 @@ The application can be deployed to be used or tested locally
 
 ### Prerequisites
 
-A keyboard and a laptop/pc is required for the game to be functional.
-
-The keys used in the game are W, A, S, D and up arrow, down arrow, right arrow and left arrow
+You will need only a browser
 
 
 
